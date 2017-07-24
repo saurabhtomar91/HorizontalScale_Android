@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="body_text_1">#de000000</color>
+    <color name="body_text_2">#8a000000</color>
+    <color name="body_text_3">#60000000</color>
+    <color name="body_text_disabled">#44000000</color>
+
+    <color name="body_text_1_inverse">#deffffff</color>
+    <color name="body_text_2_inverse">#8affffff</color>
+
+    <color name="theme_color">#147272</color>
+    <color name="theme_color_light">#1DA0A0</color>
+    <color name="theme_color_dark">#147272</color>
+
+    <color name="theme_secondory_color">#3f51b5</color>
+    <color name="theme_secondory_color_light">#303f9f</color>
+    <color name="theme_secondory_color_dark">#7986cb</color>
+
+    <color name="theme_primary">@color/theme_color</color>
+    <color name="theme_primary_dark">@color/theme_color_dark</color>
+    <color name="theme_primary_light">@color/theme_color_light</color>
+
+    <color name="theme_secondary">@color/theme_secondory_color</color>
+    <color name="theme_secondary_dark">@color/theme_secondory_color_dark</color>
+    <color name="theme_secondary_light">@color/theme_secondory_color_light</color>
+
+    <color name="theme_accent_1">#00b0ff</color>
+    <color name="theme_accent_1_light">#8ad4fa</color>
+
+    <color name="theme_accent_2">#e91e63</color>
+    <color name="female_gender_color">#FF2274</color>
+    <color name="male_gender_color">#4541fe</color>
+
+    <color name="map_info_1">#ff000000</color>
+    <color name="map_info_2">#ff777777</color>
+    <color name="map_floorselect_active">#FF000000</color>
+    <color name="map_floorselect_inactive">#FF333333</color>
+
+    <color name="gray_background">#e5e5e5</color>
+    <color name="transparent_black">#95333333</color>
+    <color name="dark_divider">#32000000</color>
+
+    <color name="navdrawer_background">#ffffffff</color>
+    <color name="navdrawer_text_color">@color/body_text_1</color>
+    <color name="navdrawer_text_color_selected">@color/theme_primary</color>
+    <color name="navdrawer_icon_tint">#888</color>
+    <color name="navdrawer_icon_tint_selected">@color/theme_primary</color>
+
+    <color name="refresh_progress_1">@color/theme_accent_2</color>
+    <color name="refresh_progress_2">@color/theme_accent_1</color>
+    <color name="refresh_progress_3">@color/theme_primary</color>
+
+    <color name="session_photo_scrim">#6000</color>
+
+    <color name="default_item_color">@color/theme_primary</color>
+
+    <color name="list_dropdown_foreground_normal">#ff333333</color>
+    <color name="list_dropdown_divider_color">#92a3a3a3</color>
+    <color name="butter_bar_light">#eee0e0e0</color>
+
+    <color name="translucent_actionbar_background">#cc3f51b5</color>
+    <color name="translucent_statusbar_background">#cc3f51b5</color>
+
+    <color name="tab_background">@color/theme_primary</color>
+    <color name="tab_selected_strip">@color/white</color>
+
+    <color name="chrome">#3367d6</color>
+    <color name="games">#b93221</color>
+    <color name="location">#795548</color>
+    <color name="performance">#8e24aa</color>
+    <color name="ux">#00897b</color>
+    <color name="wearable">#ad1457</color>
+    <color name="android">#558b2f</color>
+    <color name="dart">#018390</color>
+    <color name="growth">#c3570b</color>
+    <color name="media">#ce4319</color>
+    <color name="tools">#607d8b</color>
+    <color name="accessiblity">#646464</color>
+    <color name="cloud">#0288d1</color>
+    <color name="go">#2a55c5</color>
+    <color name="monetization">#0d904f</color>
+    <color name="polymer">#673ab7</color>
+    <color name="white">#fff</color>
+
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <!--Custom colors of the app -->
+    <color name="app_background">#ededed</color>
+    <!--#C2D7F1-->
+    <color name="header_gray">#2C3E52</color>
+    <color name="header_font">#ffffff</color>
+    <color name="day_black">#424242</color>
+    <color name="subtitle">#8D8D8D</color>
+    <color name="title">#5B5B5B</color>
+    <color name="blue">#2FAAAA</color>
+    <color name="black">#424242</color>
+    <color name="green">#ff099d1e</color>
+    <color name="bg_green">#33CaB7</color>
+    <color name="diabetes_blue">#608EC5</color>
+    <color name="food_orange">#E5B91C</color>
+    <color name="bg_gray">#F2F2F2</color>
+    <color name="text_selected">#ffffff</color>
+    <color name="text_unselected">#922d2d34</color>
+    <color name="orange_coral">#FF7F50</color>
+    <color name="orange_red">#FF4500</color>
+    <color name="apptheme_color">#33b5e5</color>
+
+
+    <color name="routine_bg">#E6E4E5</color>
+    <color name="btn_bg">#CCCCCC</color>
+    <color name="txt_routine">#585858</color>
+    <color name="txt_routine_1">#595959</color>
+    <color name="bg_routine_disc_main">#f2f2f2</color>
+    <color name="bg_routine_disc_container">#e6e4e5</color>
+
+    <color name="bg_food_item_top">#fff</color>
+    <color name="bg_food_item_list">#f2f2f2</color>
+    <color name="bg_food_item_main">#9c9ca8</color>
+    <color name="bg_food_item_save_btn">#53959a</color>
+    <color name="transparent_gray">#CC4A4A4A</color>
+    <color name="translucent">#66000000</color>
+    <color name="transparent_green_normal">#661DA0A0</color>
+
+    <color name="bg_food_item_yellow">#efba00</color>
+
+    <color name="food_item_txt_color">#ffffff</color>
+
+    <color name="mylogs_main_bg">#fff</color>
+    <color name="mylogs_goup_bg">#dfdfdf</color>
+    <color name="mylogs_child_bg">#f2f2f2</color>
+
+    <!--Ranger colors-->
+    <color name="default_days_container_background_color">#000000</color>
+    <color name="default_selected_day_background_color">#aaaaaa</color>
+
+    <color name="default_day_text_color">#ffffff</color>
+    <color name="default_selected_day_text_color">#111111</color>
+
+    <!-- Routine Colors -->
+    <color name="routine_blue_color">#239dd0</color>
+    <color name="routine_green_color">#5ea9ae</color>
+
+    <color name="bg_grey">#f1f1f1</color>
+
+    <!-- com.healtharx.beato.App Theme Color  -->
+
+    <color name="btn_green_normal">#1DA0A0</color>
+    <color name="btn_green_fab_light">#26d3d3</color>
+    <color name="btn_green_fab_dark">#136b6b</color>
+    <color name="btn_green_hover">#147272</color>
+
+    <!-- Blood Glucose -->
+    <color name="btn_blue_normal">#418FCD</color>
+    <color name="btn_blue_fab_light">#64bafe</color>
+    <color name="btn_blue_fab_dark">#2e6692</color>
+    <color name="btn_blue_hover">#007F9F</color>
+
+    <!-- Meal Screen Colors -->
+    <color name="meal_yellow_mustard">#E5B81C</color>
+    <color name="meal_yellow_fab_light">#ffd544</color>
+    <color name="meal_yellow_fab_dark">#be9a1f</color>
+
+    <!-- Text color Code -->
+    <color name="body_dark_grey">#4A4A4A</color>
+    <color name="body_light_grey">#D2D2D2</color>
+
+    <!--Splash Screen Color Code -->
+    <color name="light_green">#1ea0a0</color>
+
+    <color name="tab_host_color_background">#87ccca</color>
+    <color name="tab_host_text_color_unselected">#CCFFFFFF</color>
+    <color name="tab_host_text_color_selected">#FFFFFF</color>
+
+    <color name="color_dark_grey">#dedede</color>
+
+   <!-- <color name="color_vital_bg">#00bd67</color>-->
+    <color name="color_vital_bg">#1dd0f5</color>
+    <color name="glycemic_good">#03f57a</color>
+    <color name="glycemic_ocassional">#f58003</color>
+    <color name="glycemic_avoid">#ea3939</color>
+
+    <color name="onboarding_two">#ffba00</color>
+ 
+    <color name="agent_chat_bubble_bg">#daefef</color>
+    <color name="visitor_chat_bubble_bg">#dcf8c6</color>
+
+
+    <!-- BeatO Care Plan Color -->
+    <color name="beato_schedule_color">#8b8c8c</color>
+    <color name="beato_billing_color">#7f7f7f</color>
+
+    <color name="blood_glucose_background">#def1ff</color>
+    <color name="yellow_color">#FECD07</color>
+    <color name="yellow_color_chat">#FEC107</color>
+    <color name="btn_yellow_color">#fec107</color>
+
+    <color name="topic_text_color">#787878</color>
+    <color name="header_text_color">#5e5e5e</color>
+    <color name="cigna_vitals_color">#0083cb</color>
+    <color name="cigna_green_color">#50b948</color>
+    <color name="sml_orange_dark_color">#f1aa01</color>
+    <color name="sml_orange_color">#fec107</color>
+    <color name="cigna_organge_color">#f58623</color>
+
+    <color name="food_card_light_blue">#7CCDCE</color>
+    <color name="beato_light_green">#39b9b9</color>
+
+    <!-- Light colors -->
+    <color name="colorPrimary_light">#FFE0B2</color>
+    <color name="colorPrimaryDark_light">#FFA726</color>
+    <color name="colorAccent_light">#424242</color>
+    <color name="background_light">#FFF3E0</color>
+
+    <!-- Dark colors -->
+    <color name="colorPrimary_dark">#2E7D32</color>
+    <color name="colorPrimaryDark_dark">#1B5E20</color>
+    <color name="colorAccent_dark">#FAFAFA</color>
+    <color name="background_dark">#263238</color>
+
+    <color name="gluco_result_red">#FE0101</color>
+    <color name="gluco_result_green">#28C351</color>
+    <color name="gluco_result_orange">#FFA200</color>
+
+
+</resources>
